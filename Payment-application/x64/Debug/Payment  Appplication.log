@@ -1,0 +1,19 @@
+﻿  application.c
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(56,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(57,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(58,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(59,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(60,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(61,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(62,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(63,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(64,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\server\server.h(65,3): warning C4133: 'initializing': incompatible types - from 'char [17]' to 'uint8_t *'
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\app\application.c(17,28): warning C4133: 'function': incompatible types - from 'ST_accountsDB_t *' to 'ST_terminalData_t *'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+app.obj : warning LNK4006: accountsDB already defined in application.obj; second definition ignored
+app.obj : warning LNK4006: Transaction already defined in application.obj; second definition ignored
+server.obj : warning LNK4006: accountsDB already defined in application.obj; second definition ignored
+server.obj : warning LNK4006: Transaction already defined in application.obj; second definition ignored
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\x64\Debug\Payment  Appplication.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Payment  Appplication.vcxproj -> D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\x64\Debug\Payment  Appplication.exe

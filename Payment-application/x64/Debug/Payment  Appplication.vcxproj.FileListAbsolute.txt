@@ -1,0 +1,4 @@
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Payment  Appplication\x64\Debug\Payment  Appplication.exe
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\Payment  Appplication\x64\Debug\Payment  Appplication.exe
+C:\Users\sheha\OneDrive\Desktop\Payment  Appplication\x64\Debug\Payment  Appplication.exe
+D:\IOT-WORK\COURSES-IOT Technology\Embedded Software Engineer\FWD-Embedded System\Application-payment\application module-file\Payment  Appplication\x64\Debug\Payment  Appplication.exe
